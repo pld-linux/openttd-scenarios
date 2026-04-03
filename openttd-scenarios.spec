@@ -2,7 +2,7 @@
 Summary:	Scenario files for OpenTTD
 Name:		openttd-scenarios
 Version:	20090404
-Release:	1
+Release:	2
 License:	Mixed
 Group:		X11/Applications/Games
 Source0:	%{name}-%{version}.tar.bz2
